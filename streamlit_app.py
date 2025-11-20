@@ -5,7 +5,7 @@ from datetime import datetime
 # Page Config
 st.set_page_config(
   page_title =' Dienebou Sacko | Portfolio',
-  page_icon='🎯',
+  page_icon='❤️',
   layout = 'wide'
 )
 
