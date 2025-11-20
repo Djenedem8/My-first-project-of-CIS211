@@ -35,7 +35,7 @@ if page == '🏠 Home':
   with col2:
       st.metric('Projects', '6', '💻')
   with col3:
-      st.metric('Skills', '10+', '🚀')
+      st.metric('Skills', '7+', '🚀')
 
   st.write('---')
 
