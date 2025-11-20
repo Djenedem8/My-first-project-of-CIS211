@@ -42,7 +42,7 @@ if page == '🏠 Home':
   # Introduction with columns
   col1, col2 = st.columns([2,1])
   with col1:
-    st.subheader('Welcome to my digital space!👋')
+    st.subheader('Welcome to my futre business plan!👌')
     st.write('''
                 I am a Computer Information Systems student passionate about web development and emerging technologies. Currently learning
                 HTML, CSS, JavaScript, and Python to build innovative solutions.
