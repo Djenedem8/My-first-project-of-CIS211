@@ -113,7 +113,7 @@ elif page == '💼 Projects':
       st.write('Interactive web app for calculating and visualizing grades')
       st.caption('**Technologies:** Python, Pandas, Plotly')
 
-elif page == '🛠 Skills':
+elif page == '⛷️ Skills':
   st.title('Technical Skills')
 
   # Skills with progress bars
@@ -152,7 +152,7 @@ elif page == '🛠 Skills':
     st.info('Writing')
     st.warning('Social Media')
 
-elif page == '📝 Resume':
+elif page == '📑 Resume':
   st.title('Resume')
 
   # Read PDF from my GitHub repository
@@ -166,7 +166,7 @@ elif page == '📝 Resume':
     mime ='application/pdf'
   )
 
-elif page == '📩 Contact':
+elif page == '📨 Contact':
   st.title("Let's Connect!")
 
   col1, = st.columns(1)
