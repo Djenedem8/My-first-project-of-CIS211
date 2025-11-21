@@ -57,7 +57,7 @@ if page == '🏚️ Home':
     st.image('https://raw.githubusercontent.com/avinashjairam/cis211_project1/refs/heads/main/grumpy_cat.jfif', use_column_width=True)
 
 # About Page
-elif page == '🤠 About':
+elif page == '👩 About':
   st.title('About Me')
 
   # Timeline of my Professional Journey
@@ -65,8 +65,8 @@ elif page == '🤠 About':
 
   with st.expander('2025 - Present: Medgar Evers College'):
     st.write('''
-                - Major: Computer Information Systems
-                - Relevant Coursework: Internet & Emerging Technologies, Programming, Database Systems, AI
+                - Major: Business Administration In Accounting
+                - Relevant Coursework: Principles Of Management, Accounting 311, CIS211, Macroeconomics, Taxation,
                 - Activities: Track Team, Volleyball Team, Hackathon participant
             ''')
 
