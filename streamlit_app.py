@@ -177,11 +177,11 @@ elif page == '📨 Contact':
     st.write('''
         📧 **Email:** djenebouena2008@yahoo.fr
 
-        🏢 **LinkedIn:** [linkedin.com/in/dienebousacko](https://linkedin.com)
+        🖇️ **LinkedIn:** [linkedin.com/in/dienebousacko](https://linkedin.com)
 
-        👩‍💻 **Github:** [https://github.com/djenedem8](https://github.com)
+        🖥️ **Github:** [https://github.com/djenedem8](https://github.com)
 
-        📷 **Instagram:** [@boudjenesacko](https://instagram.com)
+        🌐 **Instagram:** [@boudjenesacko](https://instagram.com)
 
     ''')
 
