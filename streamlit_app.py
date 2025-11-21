@@ -67,7 +67,7 @@ elif page == '👩 About':
     st.write('''
                 - Major: Business Administration In Accounting
                 - Relevant Coursework: Principles Of Management, Accounting 311, CIS211, Macroeconomics, Taxation,
-                - Activities: Track Team, Volleyball Team, Hackathon participant
+                - Activities: Basketball Team, Football Team, Run participant
             ''')
 
   with st.expander('2023 - 2025: NYC Museum School'):
