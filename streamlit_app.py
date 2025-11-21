@@ -77,7 +77,7 @@ elif page == '👩 About':
                 - Founded Coding Club
             ''')
 
-  st.subheader('Interests & Hobbies 🏀')
+  st.subheader('Interests & Hobbies ✈️')
   interests = ['Web Development', 'AI/Machine Learning', 'Photography', 'Basketball', 'Travel', 'Baseball']
 
   # Display the interests in columns
