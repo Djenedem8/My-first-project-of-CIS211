@@ -205,7 +205,7 @@ elif page == '📨 Contact':
     # Footer
     st.write('---')
     st.markdown(
-        f'<center>Made with 💗 using Streamlit | © {datetime.now().year} Avinash Jairam </center>',
+        f'<center>Made with 💗 using Streamlit | © {datetime.now().year} Dienebou Sacko </center>',
         unsafe_allow_html = True
     )
     
