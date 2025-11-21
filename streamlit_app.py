@@ -175,7 +175,7 @@ elif page == '📨 Contact':
     st.subheader('Send me a message.')
 
     st.write('''
-        📧 **Email:** yourname@email.com
+        📧 **Email:** djenebouena2008@yahoo.fr
 
         🏢 **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com)
 
