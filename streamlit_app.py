@@ -70,7 +70,7 @@ elif page == '👩 About':
                 - Activities: Basketball Team, Football Team, Run participant
             ''')
 
-  with st.expander('2023 - 2025: NYC Museum School'):
+  with st.expander('2018 - 2020: ASA College '):
     st.write('''
                 - Graduated with honors
                 - AP Computer Science A (Score: 5)
