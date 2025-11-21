@@ -179,7 +179,7 @@ elif page == '📨 Contact':
 
         🏢 **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com)
 
-        👩‍💻 **Github:** [https://github.com/avinashjairam](https://github.com)
+        👩‍💻 **Github:** [https://github.com/djenedem8](https://github.com)
 
         📷 **Instagram:** [@yourhandle](https://instagram.com)
 
