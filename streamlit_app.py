@@ -191,8 +191,8 @@ elif page == '📨 Contact':
     status = st.selectbox(
         "I'm currently:",
         [
-            '🎶 Music',
-            '👩‍🎓 Studying',
+            '👩‍🎓 Student',
+            '🎵 Music',
             '🍕 Lunch break',
             '🎮 Gaming',
             '😴 Sleeping'
