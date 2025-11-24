@@ -123,7 +123,7 @@ elif page == '⛷️ Skills':
     'Taxation' : 86,
     'Macroenomic' : 80,
     'Accounting' : 90,
-    'CIS' : 211,
+    'CIS211' : 90,
     'Principles Of Management' : 80
   }
 
