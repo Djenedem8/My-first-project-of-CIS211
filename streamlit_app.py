@@ -110,7 +110,7 @@ elif page == '💼 Projects':
       st.image('https://wallpapercave.com/wp/wp3730548.jpg', use_column_width = True)
     with col2:
       st.subheader('🧾 Form 1040 from IRS')
-      st.write('Interactive web app for calculating and visualizing grades')
+      st.write('Download a PDF of the 1040 tax form on the IRS')
       st.caption('**Technologies:** Python, Pandas, Plotly')
 
 elif page == '⛷️ Skills':
