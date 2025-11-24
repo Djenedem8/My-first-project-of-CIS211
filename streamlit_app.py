@@ -138,9 +138,9 @@ elif page == '⛷️ Skills':
 
   col1, col2, col3 = st.columns(3)
   with col1:
-    st.success('Number')
-    st.info('Word')
-    st.warning('Access')
+    st.success('GDP')
+    st.info('Monetaire Value')
+    st.warning('Aduit')
 
   with col2:
     st.success('Quickbook')
