@@ -150,7 +150,7 @@ elif page == '⛷️ Skills':
   with col3:
     st.success('Spreadsheet')
     st.info('Writing')
-    st.warning('Social Media')
+    st.warning('Microsoft Excel')
 
 elif page == '📑 Resume':
   st.title('Resume')
