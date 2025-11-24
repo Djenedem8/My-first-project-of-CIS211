@@ -121,10 +121,10 @@ elif page == '⛷️ Skills':
 
   skills_data = {
     'Taxation' : 86,
-    'Payroll' : 70,
-    'Accounting' : 311,
+    'Payroll' : 80,
+    'Accounting' : 90,
     'CIS' : 211,
-    'Principles Of Management' : 200
+    'Principles Of Management' : 80
   }
 
   for skill, level in skills_data.items():
