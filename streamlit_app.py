@@ -95,7 +95,7 @@ elif page == '💼 Projects':
     col1, col2 = st.columns([1, 2])
   
     with col1:
-        st.image('https://iprx-cms-content.ams1.vultrobjects.com/Blog_How_To_Crawl_4_capcha_ded9206d5f.png', use_column_width = True)
+        st.image('https://payrollnorth.ca/_next/image?url=https:%2F%2Fcdn.durable.co%2Fgetty%2F1c1gNeTMGFtrYGog2OZOhM6rIxZN2J5ViLSSGQRKbU9ywn8nPup35PzF0QaS62yZ.jpeg&w=1920&q=90', use_column_width = True)
 
     with col2:
         st.subheader('🛒 E-Commerce Price Tracker')
