@@ -145,7 +145,7 @@ elif page == '⛷️ Skills':
   with col2:
     st.success('Quickbook')
     st.info('Software Developed')
-    st.warning('ChatGPT/AI Tools')
+    st.warning('Intuit.com')
     
   with col3:
     st.success('Spreadsheet')
