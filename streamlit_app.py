@@ -49,7 +49,7 @@ if page == '🏚️ Home':
             
                 📕 **Current Focus:** Doing management plan of my future business
             
-                📚 **Currently Learning:** Principle of Mangement (M200)
+                📚 **Currently Learning:** Principle of Mangement (M200).
                 🚓 **Fun Fact:** I can travel to go to Africa by Car!
             ''')
   with col2:
