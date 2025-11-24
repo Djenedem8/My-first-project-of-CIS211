@@ -138,7 +138,7 @@ elif page == '⛷️ Skills':
 
   col1, col2, col3 = st.columns(3)
   with col1:
-    st.success('Excel')
+    st.success('Number')
     st.info('Word')
     st.warning('Access')
 
