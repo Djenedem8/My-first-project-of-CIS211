@@ -50,7 +50,7 @@ if page == '🏚️ Home':
                 📕 **Current Focus:** Doing management plan of my future business
             
                 📚 **Currently Learning:** Principle of Mangement (M200)
-                🌱 **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
+                🚓 **Fun Fact:** I can travel to go to Africa by Car!
             ''')
   with col2:
     # Placeholder for image
