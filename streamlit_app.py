@@ -44,7 +44,7 @@ if page == '🏚️ Home':
   with col1:
     st.subheader('Welcome to my futre business plan!👌')
     st.write('''
-                I am a Business Student at Medgar Ever College. Currently learning Principle of Management.
+                I am a Business Student at Medgar Ever College. Currently learning Principle of Management,
                 Accounting, payroll, Taxation, and Audit to build my future business as known as Bogolan Fashion Clothing.
             
                 📕 **Current Focus:** Doing management plan of my future business.
