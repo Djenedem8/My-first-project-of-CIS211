@@ -192,8 +192,8 @@ elif page == '📨 Contact':
         "I'm currently:",
         [
             '🎶 Music',
-            '📕 Studying',
-            '☕ On a coffee break',
+            '👩‍🎓 Studying',
+            '🍕 Lunch break',
             '🎮 Gaming',
             '😴 Sleeping'
         ]
