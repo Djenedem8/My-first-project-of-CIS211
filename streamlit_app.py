@@ -99,7 +99,7 @@ elif page == '💼 Projects':
 
     with col2:
         st.subheader('📲 A payroll calculator ')
-        st.write('Python web scraper that monitors Amazon prices and sends alerts')
+        st.write('Automated payroll systems and software that use to calcul wages')
         st.caption('**Technologies:** Python, BeautifulSoup, Streamlit')
 
 
