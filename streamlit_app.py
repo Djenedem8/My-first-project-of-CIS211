@@ -117,7 +117,7 @@ elif page == '⛷️ Skills':
   st.title('Technical Skills')
 
   # Skills with progress bars
-  st.subheader('Accounting Skill')
+  st.subheader('Accounting Skills')
 
   skills_data = {
     'Taxation' : 86,
