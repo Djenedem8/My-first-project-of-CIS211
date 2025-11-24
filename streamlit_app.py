@@ -121,7 +121,7 @@ elif page == '⛷️ Skills':
 
   skills_data = {
     'Taxation' : 86,
-    'Payroll' : 80,
+    'Macroenomic' : 80,
     'Accounting' : 90,
     'CIS' : 211,
     'Principles Of Management' : 80
