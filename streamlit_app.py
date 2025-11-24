@@ -143,7 +143,7 @@ elif page == '⛷️ Skills':
     st.warning('Access')
 
   with col2:
-    st.success('PowerPoint')
+    st.success('Quickbook')
     st.info('Google Docs')
     st.warning('ChatGPT/AI Tools')
     
