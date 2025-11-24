@@ -148,7 +148,7 @@ elif page == '⛷️ Skills':
     st.warning('ChatGPT/AI Tools')
     
   with col3:
-    st.success('Presentations')
+    st.success('Spreadsheet')
     st.info('Writing')
     st.warning('Social Media')
 
