@@ -47,7 +47,7 @@ if page == '🏚️ Home':
                 I am a Business Student at Medgar Ever College. Currently learning Principle of Management.
                 Accounting, payroll, Taxation, and Audit to build my future business as known as Bogolan Fashion Clothing.
             
-                📕 **Current Focus:** Doing management plan of my future business
+                📕 **Current Focus:** Doing management plan of my future business.
             
                 📚 **Currently Learning:** Principle of Mangement (M200).
                 🚓 **Fun Fact:** I can travel to go to Africa by Car!
