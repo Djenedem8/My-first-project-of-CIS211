@@ -54,7 +54,7 @@ if page == '🏚️ Home':
             ''')
   with col2:
     # Placeholder for image
-    st.image('https://raw.githubusercontent.com/avinashjairam/cis211_project1/refs/heads/main/grumpy_cat.jfif', use_column_width=True)
+    st.image('https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&w=1600', use_column_width=True)
 
 # About Page
 elif page == '👩 About':
