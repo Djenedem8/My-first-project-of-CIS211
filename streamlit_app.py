@@ -98,7 +98,7 @@ elif page == '💼 Projects':
         st.image('https://payrollnorth.ca/_next/image?url=https:%2F%2Fcdn.durable.co%2Fgetty%2F1c1gNeTMGFtrYGog2OZOhM6rIxZN2J5ViLSSGQRKbU9ywn8nPup35PzF0QaS62yZ.jpeg&w=1920&q=90', use_column_width = True)
 
     with col2:
-        st.subheader('🛒 E-Commerce Price Tracker')
+        st.subheader('📲 A payroll calculator determine an employee's net pay')
         st.write('Python web scraper that monitors Amazon prices and sends alerts')
         st.caption('**Technologies:** Python, BeautifulSoup, Streamlit')
 
