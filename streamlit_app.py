@@ -109,7 +109,7 @@ elif page == '💼 Projects':
     with col1:
       st.image('https://wallpapercave.com/wp/wp3730548.jpg', use_column_width = True)
     with col2:
-      st.subheader('📊 Student Grade Calulator')
+      st.subheader('🧾 Form 1040 from IRS')
       st.write('Interactive web app for calculating and visualizing grades')
       st.caption('**Technologies:** Python, Pandas, Plotly')
 
