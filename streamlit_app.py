@@ -111,7 +111,7 @@ elif page == '💼 Projects':
     with col2:
       st.subheader('🧾 Form 1040 from IRS')
       st.write('Download a PDF of the 1040 tax form on the IRS')
-      st.caption('**Technologies:** Python, Pandas, Plotly')
+      st.caption('**Technologies:** E-filing, data analytics, AI')
 
 elif page == '⛷️ Skills':
   st.title('Technical Skills')
