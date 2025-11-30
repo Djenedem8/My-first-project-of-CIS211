@@ -123,7 +123,7 @@ elif page == '⛷️ Skills':
     'Hard Skill' : 100,
     'Soft Skill' : 99,
     'Taxation' : 98,
-    'CIS211' : 105,
+    'CIS211' : 98,
     'Man200' : 98
   }
 
