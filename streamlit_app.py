@@ -121,10 +121,10 @@ elif page == '⛷️ Skills':
 
   skills_data = {
     'Hard Skill' : 100,
-    'Soft Skill' : 98,
-    'Taxation' : 95,
-    'CIS211' : 90,
-    'Man200' : 80
+    'Soft Skill' : 99,
+    'Taxation' : 98,
+    'CIS211' : 105,
+    'Man200' : 98
   }
 
   for skill, level in skills_data.items():
