@@ -120,11 +120,11 @@ elif page == '⛷️ Skills':
   st.subheader('Accounting Skills')
 
   skills_data = {
-    'Hard Skill' : 82,
+    'Hard Skill' : 100,
     'Soft Skill' : 99,
     'Taxation' : 100,
     'CIS211' : 100,
-    'Man200' : 100
+    'Man200' : 105
   }
 
   for skill, level in skills_data.items():
