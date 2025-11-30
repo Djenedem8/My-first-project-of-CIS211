@@ -99,7 +99,7 @@ elif page == '💼 Projects':
 
     with col2:
         st.subheader('📲 Calculator ')
-        st.write('Automated payroll systems and software that use to calcul wages')
+        st.write('Automated payroll systems and software that use in Accounting')
         st.caption('**Technologies:** Digital Systems, Tax Withholding, Direct deposit')
 
 
