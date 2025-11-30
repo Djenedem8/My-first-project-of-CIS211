@@ -124,7 +124,7 @@ elif page == '⛷️ Skills':
     'Macroenomic' : 80,
     'Accounting' : 90,
     'CIS211' : 90,
-    'Principles Of Management' : 80
+    '' : 80
   }
 
   for skill, level in skills_data.items():
