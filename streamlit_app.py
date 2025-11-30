@@ -122,8 +122,8 @@ elif page == '⛷️ Skills':
   skills_data = {
     'Hard Skill' : 100,
     'Soft Skill' : 99,
-    'Taxation' : 98,
-    'CIS211' : 98,
+    'Taxation' : 100,
+    'CIS211' : 100,
     'Man200' : 98
   }
 
