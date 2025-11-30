@@ -120,7 +120,7 @@ elif page == '⛷️ Skills':
   st.subheader('Accounting Skills')
 
   skills_data = {
-    'Taxation' : 86,
+    'Hard Skill' : 86,
     'Macroenomic' : 80,
     'Accounting' : 90,
     'CIS211' : 90,
