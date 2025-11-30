@@ -98,7 +98,7 @@ elif page == '💼 Projects':
         st.image('https://payrollnorth.ca/_next/image?url=https:%2F%2Fcdn.durable.co%2Fgetty%2F1c1gNeTMGFtrYGog2OZOhM6rIxZN2J5ViLSSGQRKbU9ywn8nPup35PzF0QaS62yZ.jpeg&w=1920&q=90', use_column_width = True)
 
     with col2:
-        st.subheader('📲 A payroll calculator ')
+        st.subheader('📲 Calculator ')
         st.write('Automated payroll systems and software that use to calcul wages')
         st.caption('**Technologies:** Digital Systems, Tax Withholding, Direct deposit')
 
